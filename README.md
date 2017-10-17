@@ -26,7 +26,6 @@ import sun.misc.BASE64Decoder;
 import sun.misc.BASE64Encoder;
 
 java 主要代码
-package com.example.jiangxinxing.utils;
 
 import android.util.Base64;
 
@@ -388,7 +387,6 @@ public class RSAEncryptor {
 }
 
 android 主要代码
-package com.example.jiangxinxing.views;
 
 import java.io.UnsupportedEncodingException;
 
